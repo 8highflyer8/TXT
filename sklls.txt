@@ -1,0 +1,16 @@
+1)Testing Theory
+2)HTTP
+3)Testing API in Postman
+4)JSON and XML
+5)Charles Fidler
+6)Dev Tools
+7)VPN
+8)Mobile testing
+9)Git bush
+10)SQL
+11)Postgres
+12)Jmeter
+13)Scrum
+14)Python
+15)English
+16)Soft skills
