@@ -1,0 +1,4 @@
+1)Surname name Maximenko Andrey
+2)Age 37,
+3)Animals 0
+4)Sallary 100000
