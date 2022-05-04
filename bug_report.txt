@@ -1,0 +1,7 @@
+1)ID 03_05_22tit
+2)Summary "wrong url on calсulator tc Deloviye linii on page payment and delivery"
+3)Environment "Windows 7 SP_1 Google Chrome 100.0.4896.127"
+4)Steps to reproduce "Start url https://technoit.ru/payment-and-shipping/ check url on calсulator tc 'Deloviye linii"
+5)Expected result "on page https://technoit.ru/payment-and-shipping/ must open calculator https://www.dellin.ru/requests/"
+6)Actual result "on page https://technoit.ru/payment-and-shipping/  open wrong url https://dev.dellin.ru/iframe/ and client can't calculate"
+ 
